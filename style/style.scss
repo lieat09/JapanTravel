@@ -227,6 +227,7 @@ body {
 @media screen and (max-width: 700px) {
   body {
     header {
+      position: relative;
       section.logo {
         flex-direction: column;
         img {
